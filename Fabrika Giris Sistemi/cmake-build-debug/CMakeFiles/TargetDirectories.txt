@@ -1,0 +1,3 @@
+C:/Users/KAVAKLI/Desktop/Fabrika Giris Sistemi/cmake-build-debug/CMakeFiles/Fabrika_Giris_Sistemi.dir
+C:/Users/KAVAKLI/Desktop/Fabrika Giris Sistemi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KAVAKLI/Desktop/Fabrika Giris Sistemi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
